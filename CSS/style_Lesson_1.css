@@ -1,0 +1,27 @@
+/* div{
+    color: green;
+}
+.parent{
+    color: red;
+    border: 3px solid black;
+}
+#black{
+    background-color: brown;
+}
+.block{
+    color: red;
+} */
+
+/* Домашка */
+.text--bold{
+    color: aqua;
+}
+.child{
+    color: green;
+}
+a[href*="#blog"] {
+
+    color: #eb4710; /* nettuts green */
+    
+    }
+    

@@ -1,0 +1,25 @@
+@font-face {
+	font-family: "a_GildiaRough Bold";
+	src: url(fonts/a-gildiarough-bold.eot) format('eot'),
+	url("fonts/a-gildiarough-bold.woff") format("woff"),
+	url("fonts/a-gildiarough-bold.woff2") format("woff2");	
+	font-weight: normal;
+	font-style: normal;
+} 
+.text__text-2{
+    font-family: "a_GildiaRough Bold";
+	font-size: 3rem;
+	font-weight: normal;
+	line-height: 1.2;
+	color: #e81d1d;
+	background-color: #fff;
+}
+
+.text__text-1{
+    font-family: "a_GildiaRough Bold";
+	font-size: 3rem;
+	font-weight: normal;
+	line-height: 1.2;
+	color: #1d6ee8;
+	background-color: #fff;
+}

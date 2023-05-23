@@ -1,0 +1,18 @@
+/* .block, .inline {
+    font-size: 1.2rem;
+}
+.line {
+    background-color: brown;
+    height: 5px;
+    margin: 50px 0;
+}
+.content-1__block {
+    box-sizing: content-box;
+    padding: 50px;
+} */
+.content-3__block {
+    padding: 25px 25px 0px 25px;
+    width: 50vw;
+    height: 100px;
+    overflow: scroll;
+}

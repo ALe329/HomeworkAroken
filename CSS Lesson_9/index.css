@@ -1,0 +1,23 @@
+.wrapper {
+    padding: 100px 100px 30vh;
+    height: 100vh;
+}
+.block {
+    height: 100%;
+    box-shadow: 0 0 10px rgb(83,83,83);
+    border-radius: 50px;
+}
+/* .block{ */
+    /* background-color: rgb(186, 16, 96); */
+    /* background: linear-gradient(#b72447, #c40b96); */
+    /* background: url('foto.jpg') center center no-repeat, linear-gradient(#b72447, #c40b96); */
+    /* background-repeat: space; */
+/* } */
+.block{    
+    background: yellow;
+    background-image: url('foto.jpg');
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    
+    
+}

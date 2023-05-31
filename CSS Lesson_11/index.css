@@ -1,0 +1,28 @@
+.wrapper{
+    padding: 100px 15px;
+    height: 100vh;
+}
+/* .container{
+    margin: 0 auto;
+    max-width: 1000px;
+    height: 100%;
+    border: 10px solid gray;
+    display: flex;
+} */
+.block{
+    height: 200px;
+    width: 100%;
+    min-width: 200px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgb(0, 0, 0, 0.842);
+}
+
+.red {
+    background-color: rgb(189, 30, 65);
+    position: absolute;
+    bottom: 50vh;
+    /* right: 50vh; */
+    width: 200px;
+    transform: translateX(0.1vh) rotate(30deg);    
+
+}

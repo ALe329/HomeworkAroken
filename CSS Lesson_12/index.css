@@ -1,0 +1,20 @@
+body {
+    background-color: #f41010;
+    color: #fff;
+}
+.container {    
+    border-color: black;
+    border-width: 10px;
+    border-style: solid;
+    
+}
+.container {
+    /* Первый вариант */
+    transition: border-color 3s 2s;
+    /* Второй вариант */
+    transition-duration: 3s;
+    transition-delay: 2s;
+}
+.container:hover {
+    border-color: rgb(31, 172, 38);
+} 

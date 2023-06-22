@@ -1,0 +1,12 @@
+.menu_item {
+    background-color: #e993af;    
+    padding: 10px;   
+    font-weight: bold;
+    border-left: 15px ;
+    
+  }
+  .menu_item_1:first-child:hover {
+    background-color: red;
+    border-left: 10px solid #666;
+    border-bottom: 1px solid #666;
+  }
